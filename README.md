@@ -6,9 +6,9 @@ Jogo de aventura e puzzle em C, com três fases. O jogador precisa encontrar uma
 
 ## 👥 Integrantes do grupo
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Athos Ramos 
+- Bruno Das Dores
+- Josiel Teixeira
 
 ## 🕹️ Controles
 
@@ -27,7 +27,6 @@ Jogo de aventura e puzzle em C, com três fases. O jogador precisa encontrar uma
 - = Porta aberta  
 - P NPC  
 - # Espinho (reinicia fase)  
-- O Botão (ação personalizada)
 
 ## ✅ Objetivo
 
